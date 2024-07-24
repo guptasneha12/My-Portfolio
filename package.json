@@ -1,0 +1,19 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sneha",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14",
+    "nodemailer-brevo-transport": "^2.1.0",
+    "nodemailer-sendinblue-transport": "^2.0.1"
+  }
+}
